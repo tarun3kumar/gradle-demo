@@ -39,14 +39,6 @@ task smokeTests(type: Test) {
 
 test {
     useTestNG() {
-        /*main = 'org.testng.TestNG'
-        classpath = files("./src/test/resources",
-                project.sourceSets.main.compileClasspath,
-                project.sourceSets.test.compileClasspath,
-                project.sourceSets.main.runtimeClasspath,
-                project.sourceSets.test.runtimeClasspath)
-        suites "testng.xml"
-        includeGroups "smoke"*/
     }
 }
 
