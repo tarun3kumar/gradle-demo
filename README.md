@@ -1,0 +1,3 @@
+End to End system tests.
+
+Use `gradle clean test` to run tests. Detailed instructions on grouping, parallel run etc will follow ...

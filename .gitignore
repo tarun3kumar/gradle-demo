@@ -1,0 +1,6 @@
+#IDE metadata
+**.idea/**
+target/
+build/
+.gradle/
+gradle/
